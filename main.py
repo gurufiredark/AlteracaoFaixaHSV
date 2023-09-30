@@ -38,4 +38,4 @@ def main(img, matiz, largura):
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
-main('imagens/circ.png', 0, 30)
+main('imagens/circ3.png', 0, 359)
